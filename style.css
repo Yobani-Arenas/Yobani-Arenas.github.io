@@ -1,27 +1,33 @@
-*{
+* {
     font-family: Montserrat
 }
-    body{
-    background-color :f0f0f0;
+
+body {
+    background-color: f0f0f0;
     font-family: Arial, sans-sefif;
     line-height: 1.7;
+    margin-top: 40px;
 }
 
-.bg-primary{
-    background-color: #2c3e50!important;
+.bg-primary {
+    background-color: #2c3e50 !important;
 }
 
-img{
-    max-width:20%;
-    height:auto;
+#text.bg-primary {
+    color: aqua !important;
 }
 
-.bg-secondary{
-    background-color:#f0f0f0!important;
+img {
+    max-width: 20%;
+    height: auto;
 }
 
-.progress{
-    background-color: rgba(250, 255, 255,0.2);
+.bg-secondary {
+    background-color: #f0f0f0 !important;
+}
+
+.progress {
+    background-color: rgba(250, 255, 255, 0.2);
     border-radius: 20px;
     overflow: hidden;
 }
