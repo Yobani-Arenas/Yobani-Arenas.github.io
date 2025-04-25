@@ -1,10 +1,10 @@
 * {
-    font-family: Montserrat
+    font-family: Montserrat;
 }
 
 body {
-    background-color: f0f0f0;
-    font-family: Arial, sans-sefif;
+    background-color: #f0f0f0;
+    font-family: Arial, sans-serif;
     line-height: 1.7;
     margin-top: 40px;
 }
@@ -41,7 +41,3 @@ img {
     transform: translateY(-5px);
     box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
 }
-<<<<<<< HEAD
-=======
-
->>>>>>> e8276b299ed37bc768e0893a6be61a9e86c8f456
