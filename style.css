@@ -1,10 +1,13 @@
 *{
     font-family: Montserrat
 }
-    body{
+
+body{
     background-color :f0f0f0;
     font-family: Arial, sans-sefif;
     line-height: 1.7;
+    margin-top: 40px;
+
 }
 
 .bg-primary{
@@ -15,11 +18,7 @@ img{
     max-width:20%;
     height:auto;
 }
-
-body{
-    margin-top: 40px;
-}
-
+ 
 .bg-secondary{
     background-color:#f0f0f0!important;
 }
